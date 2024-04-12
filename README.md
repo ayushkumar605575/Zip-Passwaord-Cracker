@@ -1,6 +1,6 @@
 # Zip-Password-Cracker
 
-This is a Zip Password Cracker Script made with Python3... It uses the concepts of Multi-Processing abd Multi-Threading to quickly find out the password of the zip file in seconds.
+This is a Zip Password Cracker Script made with Python3... It uses the concepts of Multi-Processing and Multi-Threading to quickly find out the password of the zip file in seconds.
 
 # Password_Cracker.py
 It uses the concepts of Multi-Threading to perform brute force attack concurrently and find the Password with keywords provided.
